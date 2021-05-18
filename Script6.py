@@ -18,11 +18,7 @@ for number in numbers:
 print(uniques)
 
 
-print("/n This program will convert the emogi !!")
 
-message =input(">")
-word_split = message.split(' ')
-print(word_split)
 
 
 

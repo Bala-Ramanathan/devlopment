@@ -1,6 +1,5 @@
 print("/n This program will convert the emogi !!")
-
-message =input(">")
+message = input(">")
 words = message.split(' ')
 emojis = {
     ":)":"😀",
